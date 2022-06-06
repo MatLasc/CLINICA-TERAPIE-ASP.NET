@@ -1,0 +1,7 @@
+C:\Users\matei\source\repos\DAWPROIECTR\obj\Debug\net5.0\DAWPROIECTR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matei\source\repos\DAWPROIECTR\obj\Debug\net5.0\DAWPROIECTR.AssemblyInfoInputs.cache
+C:\Users\matei\source\repos\DAWPROIECTR\obj\Debug\net5.0\DAWPROIECTR.AssemblyInfo.cs
+C:\Users\matei\source\repos\DAWPROIECTR\obj\Debug\net5.0\DAWPROIECTR.csproj.CoreCompileInputs.cache
+C:\Users\matei\source\repos\DAWPROIECTR\obj\Debug\net5.0\DAWPROIECTR.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\matei\source\repos\DAWPROIECTR\obj\Debug\net5.0\DAWPROIECTR.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\matei\source\repos\DAWPROIECTR\obj\Debug\net5.0\DAWPROIECTR.csproj.AssemblyReference.cache
